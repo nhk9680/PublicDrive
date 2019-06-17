@@ -18,7 +18,7 @@ P3, P8
 
 Ch4 P11
 
-192.168.56.32/26 -> 27 해야 
+192.168.56.32/26 -> 27 해야 풀수있음
 
 
 [솔루션](http://www.sr2jr.com/textbook-solutions/computer-science/10302037/computer-networking-a-top-down-approach-transport-layer)
